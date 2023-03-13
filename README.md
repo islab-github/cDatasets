@@ -6,8 +6,8 @@ https://arxiv.org/pdf/2303.05692.pdf (**ICASSP 2023**).
 Please download corruption image datasets using the following link:
 https://www.dropbox.com/sh/2ndp2q54m95ojpk/AABNGc7QE6nEHh4ZFrs-qckKa?dl=0
 
-## Semantic-Preserving Image Corruptions
+## Semantic-Preserving Image Augmentations
 ![](fig01_new.png)
 
-## Semantic-Preserving Text Corruptions
+## Semantic-Preserving Text Augmentations
 ![](fig02_new.PNG)
